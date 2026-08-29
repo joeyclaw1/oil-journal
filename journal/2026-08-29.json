@@ -1,1 +1,1 @@
-{"day":"2026-08-29","updated":"2026-08-29T00:00:29.854Z","cycles":[{"ts":"2026-08-29T00:00:29.688Z","price":{"src":"yahoo","wti":83.44,"brent":88.29},"collected":326,"fresh":[]}]}
+{"day":"2026-08-29","updated":"2026-08-29T00:05:14.436Z","cycles":[{"ts":"2026-08-29T00:00:29.688Z","price":{"src":"yahoo","wti":83.44,"brent":88.29},"collected":326,"fresh":[]},{"ts":"2026-08-29T00:05:14.206Z","price":{"src":"yahoo","wti":83.44,"brent":88.29},"collected":230,"fresh":[]}]}
